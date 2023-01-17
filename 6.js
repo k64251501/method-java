@@ -1,0 +1,3 @@
+let num =[4,5,6,7];
+num.shift();
+console.log(num);
